@@ -221,10 +221,4 @@ Similar TRUE news:
 
 Aquib Aftab
 
-If you'd like, I can also create:
-
-* A **PPT presentation**
-* A **PDF project report**
-* A **GitHub README version**
-* A **Streamlit Web App**
 
